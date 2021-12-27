@@ -1,0 +1,24 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.4.19f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.4.19f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=18 insize=18731 outsize=32670 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=18731 outsize=57258 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18731 outsize=8523 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1226 outsize=800 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=5032 outsize=24708 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=1864 outsize=4941 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=11176 outsize=48613 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=2134 outsize=5527 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3174 outsize=1324 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5591 outsize=6437 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=731 outsize=574 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
